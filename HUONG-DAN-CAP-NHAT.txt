@@ -1,0 +1,28 @@
+TIÊN NGHỊCH 0.14.2 — TRANG BỊ VÀ BỐN HÀNH TRANG
+
+1. Dừng game bằng Ctrl+C.
+2. Giải nén ZIP, mở thư mục tien-nghich.
+3. Chép NỘI DUNG vào D:\OneDrive\Games\TIEN NGHICH, đồng ý ghi đè.
+4. Giữ nguyên .env, node_modules và database. Không cần SQL mới.
+5. Chạy CHAY-GAME.cmd, mở địa chỉ game hiện tại, Ctrl+F5.
+
+Nhấn C: mở Nhân vật và Hành trang cạnh nhau. Esc đóng cả hai.
+Trang bị sắp đúng thứ tự hai bên ảnh; vũ khí cao hai ô, dưới có bốn ô khóa.
+Tên/cấp và danh hiệu/liên minh trên ảnh, thuộc tính bên phải.
+
+HÀNH TRANG
+- Túi chính 40 ô, 8 cột; mỗi ô 22×22px. Ô tiếp theo là dấu + mở rộng.
+- Một Phù Nạp Vật mở 8 ô chính, tối đa 160. Nhận phù từ tiểu boss.
+- Bấm Kích hoạt túi để xem yêu cầu, dùng đúng 1 vật liệu để mở đủ 160 ô:
+  Túi 2: Túi Càn Khôn (Lang Vương).
+  Túi 3: Túi Tu Di (Hắc Lang Vương).
+  Túi 4: Túi Hư Không (Cổ Thụ Yêu Vương).
+- Tab phụ chỉ hiện sau khi kích hoạt. Mỗi túi tối đa 160 ô.
+- Nhấp trang bị để mặc/tháo/bán hoặc chuyển sang một túi đã mở.
+- Thảo dược và vật liệu tiêu hao xếp chồng tại túi chính.
+- Hãy để trống vài ô túi chính khi săn boss để nhận vật liệu mới.
+- Bán đồ nhận bạc. Vàng hiện chưa có nguồn kiếm; linh thạch cũ giữ nguyên.
+- Nhân vật cũ có trên 40 ô sẽ được giữ đủ chỗ, không xóa đồ.
+
+Đã đạt 77 kiểm thử tự động; chưa kiểm tra trực quan trên Windows.
+Chi tiết trong docs/DEVELOPMENT.md.

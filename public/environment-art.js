@@ -1,0 +1,2 @@
+export const ENVIRONMENT={"file": "village-v1.png", "width": 1536, "height": 1024, "frames": {"cottage": {"x": 12, "y": 34, "w": 528, "h": 456}, "hall": {"x": 555, "y": 13, "w": 469, "h": 492}, "tree": {"x": 1024, "y": 7, "w": 501, "h": 514}, "pine": {"x": 17, "y": 490, "w": 508, "h": 502}, "rock": {"x": 547, "y": 565, "w": 457, "h": 420}, "fence": {"x": 1050, "y": 624, "w": 469, "h": 343}}};
+export const GROUND={file:"ground-v1.png",width:1254,height:1254};

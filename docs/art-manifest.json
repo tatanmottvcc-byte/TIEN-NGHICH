@@ -1,0 +1,62 @@
+{
+  "version": "1",
+  "usage": "Approved concept portraits, not animation frames",
+  "assets": [
+    {
+      "file": "public/assets/art/ancient-treant-v1.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 3042302,
+      "sha256": "b6750d411258c29141f3b9bb0d60f11927de450ffcf7138e23094670b5174fe2"
+    },
+    {
+      "file": "public/assets/art/elder-v1.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2457965,
+      "sha256": "f2cfb1298309b950df6d927799925e2eacf685712fde4e6dce0ed89ebb7b0e94"
+    },
+    {
+      "file": "public/assets/art/farmer-v1.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2367883,
+      "sha256": "fe99fcb0740f689bc93f3cc13c314e2d657f5f6d11d2fa131adb88820f84c447"
+    },
+    {
+      "file": "public/assets/art/female-v1.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2485838,
+      "sha256": "660017e8be4d02f2230e8ad78986c771ad79c0b044950dbd24a77d1fc0707c9a"
+    },
+    {
+      "file": "public/assets/art/guard-v1.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2093988,
+      "sha256": "881a744972cbfc07172e81537d5ea8ed848202b1e3e163a5d83a99e406990bc8"
+    },
+    {
+      "file": "public/assets/art/healer-v1.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2202171,
+      "sha256": "ea10c2c2f1c0d219ed4e0334a359308a60ef999861b5daa64195a3785fe61f4d"
+    },
+    {
+      "file": "public/assets/art/male-v1.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2432402,
+      "sha256": "7a83c98ff454873a33a58a702b0464977750bcee408a7eb5c61093b71910f418"
+    },
+    {
+      "file": "public/assets/art/wolf-boss-v1.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2481505,
+      "sha256": "e835e0ff3c8b9c654a0c48b6dbafcd1233b6706dfed42a8fdc36481f0ab53b63"
+    }
+  ]
+}
